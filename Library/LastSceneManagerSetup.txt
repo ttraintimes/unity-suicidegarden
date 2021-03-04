@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/SuicideGarden/Scenes/storyshot4.unity
+- path: Assets/Scenes/storyshot5.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
