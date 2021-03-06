@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/flowerhill.unity
+- path: Assets/Scenes/mushroom.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
