@@ -29,4 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/storyshot4.unity
     guid: 1266c85ac0da84e0b8ae89fab3ff7baa
+  - enabled: 1
+    path: Assets/Scenes/deepsea.unity
+    guid: 78518a87f12304c4d9363bd0eff0559b
+  - enabled: 1
+    path: Assets/Scenes/flowerhill.unity
+    guid: 679e28dd92e786342b7944447228f70c
   m_configObjects: {}
